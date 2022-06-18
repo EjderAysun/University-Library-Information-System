@@ -21,33 +21,33 @@
 
 ---
 ## Screenshots
-[Screenshots](./ULIS_Screenshots/1.png)
+![Screenshots](/ULIS_Screenshots/1.png)
 
-[Screenshots](./ULIS_Screenshots/2.png)
+![Screenshots](/ULIS_Screenshots/2.png)
 
-[Screenshots](./ULIS_Screenshots/3.png)
+![Screenshots](/ULIS_Screenshots/3.png)
 
-[Screenshots](./ULIS_Screenshots/4.png)
+![Screenshots](/ULIS_Screenshots/4.png)
 
-[Screenshots](./ULIS_Screenshots/5.png)
+![Screenshots](/ULIS_Screenshots/5.png)
 
-[Screenshots](./ULIS_Screenshots/6.png)
+![Screenshots](/ULIS_Screenshots/6.png)
 
-[Screenshots](./ULIS_Screenshots/7.png)
+![Screenshots](/ULIS_Screenshots/7.png)
 
-[Screenshots](./ULIS_Screenshots/8.png)
+![Screenshots](/ULIS_Screenshots/8.png)
 
-[Screenshots](./ULIS_Screenshots/9.png)
+![Screenshots](/ULIS_Screenshots/9.png)
 
-[Screenshots](./ULIS_Screenshots/10.png)
+![Screenshots](/ULIS_Screenshots/10.png)
 
-[Screenshots](./ULIS_Screenshots/11.png)
+![Screenshots](/ULIS_Screenshots/11.png)
 
-[Screenshots](./ULIS_Screenshots/12.png)
+![Screenshots](/ULIS_Screenshots/12.png)
 
-[Screenshots](./ULIS_Screenshots/13.png)
+![Screenshots](/ULIS_Screenshots/13.png)
 
-[Screenshots](./ULIS_Screenshots/14.png)
+![Screenshots](/ULIS_Screenshots/14.png)
 
 ---
 ## Technologies
@@ -59,9 +59,9 @@
 ## Setup
 
 #### For Windows:
-If you don't have a java and javac version, download and install it from here:
-Download Java SE Development Kit from: https://www.oracle.com/java/technologies/downloads
-Open CMD (Command Prompt) and type this command:
+If you don't have a java and javac version, download and install it from here:  
+Download Java SE Development Kit from: https://www.oracle.com/java/technologies/downloads  
+Open CMD (Command Prompt) and type this command:  
 ```
 >cd (src path)
 >javac -encoding ISO-8859-1 file_name.java
@@ -109,9 +109,9 @@ For run this project:
 # java Library
 ```
 #### For MacOS:
-If you don't have a java and javac version, download and install it from here:
-Download Java SE Development Kit from: https://www.oracle.com/java/technologies/downloads
-Open CMD (Command Prompt) and type this command:
+If you don't have a java and javac version, download and install it from here:  
+Download Java SE Development Kit from: https://www.oracle.com/java/technologies/downloads  
+Open CMD (Command Prompt) and type this command:  
 ```
 >cd (src path)
 >javac Library.java
