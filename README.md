@@ -214,10 +214,10 @@ Some minor fixes and screenshots fixed.
 **Version 1.0.4**  
 Some minor fixes and screenshots fixed.  
 
-**Version 1.0.5**
+**Version 1.0.5**  
 Some minor fixes and test for screenshot.
 
-**Version 1.0.6**
+**Version 1.0.6**  
 Some minor fixes and test for screenshot.
 
 **Version 1.0.7**  
@@ -233,6 +233,9 @@ Some minor fixes, some additions and test.
 Test end.
 
 **Version 1.1.1**  
+A little fix.
+
+**Version 1.1.2**  
 A little fix.
 
 ---
