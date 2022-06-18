@@ -5,6 +5,7 @@
 ## Table of Contents
 * [General Info](#general-info)
 * [Screenshots](#screenshots)
+* [Presentation Video](#presentation-video)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -12,7 +13,7 @@
 * [Inspiration](#inspiration)
 * [Version](#version)
 * [Contributors](#contributors)
-* [Licence & Copyright](#licence-and-copyright)
+* [Licence & Copyright](#licence-&-copyright)
 
 ---
 ## General Info
@@ -22,6 +23,39 @@
 ---
 ## Screenshots
 
+![1](https://user-images.githubusercontent.com/71559273/174436874-3e1a4487-2889-4f0d-9f18-e68333f2019a.png)
+
+![2](https://user-images.githubusercontent.com/71559273/174436884-0e9a68a1-9329-4119-b81f-2a3427cb985c.png)
+
+![3](https://user-images.githubusercontent.com/71559273/174436891-6ed4dadd-5d8a-4d77-876e-8c3d4f05651f.png)
+
+![4](https://user-images.githubusercontent.com/71559273/174436895-e6f1a150-11f3-40fb-99a1-244fb7fcbfd0.png)
+
+![5](https://user-images.githubusercontent.com/71559273/174436897-48958f27-cecf-436c-847e-8613608addf7.png)
+
+![6](https://user-images.githubusercontent.com/71559273/174436903-ab123da8-b1e6-4d5f-b33b-74dcad2d9987.png)
+
+![7](https://user-images.githubusercontent.com/71559273/174436920-55cdbba1-f4f5-4aed-88d1-15a46965eb13.png)
+
+![8](https://user-images.githubusercontent.com/71559273/174436928-41526f7c-ae77-4476-93ab-6f1d567405f1.png)
+
+![9](https://user-images.githubusercontent.com/71559273/174436930-46add5ca-8603-4b63-8da6-a3b012d782c7.png)
+
+![10](https://user-images.githubusercontent.com/71559273/174436933-518dad66-6edc-485b-81e9-13985ca5d7b1.png)
+
+![11](https://user-images.githubusercontent.com/71559273/174436936-2576c232-ef41-4218-a1e4-a6c188756156.png)
+
+![12](https://user-images.githubusercontent.com/71559273/174436939-c32b077a-4f9f-42d2-b7b5-c1968c41286a.png)
+
+![13](https://user-images.githubusercontent.com/71559273/174436941-d38bf495-ce3b-4afd-848c-7c10959c3557.png)
+
+[14](https://user-images.githubusercontent.com/71559273/174436944-36a3b462-1e7a-49d8-b2f3-b6da1931174e.png)
+
+---
+## Presentation Video
+[Here](https://www.youtube.com/watch?v=Ad5KFi0JcQg) is my presentation with my ultra-perfect high-level English :D
+
+---
 
 ## Technologies
 * java version "17.0.2" 2022-01-18 LTS
@@ -186,11 +220,14 @@ Some minor fixes and test for screenshot.
 **Version 1.0.6**
 Some minor fixes and test for screenshot.
 
-**Version 1.0.7**
+**Version 1.0.7**  
 Test
 
-**Version 1.0.8**
+**Version 1.0.8**  
 Test
+
+**Version 1.0.9**  
+Some minor fixes, some additions and test
 
 ---
 ## Contributors
@@ -199,4 +236,4 @@ Ejder Aysun <ejdera344@gmail.com>
 ---
 ## Licence & Copyright
 © Ejder Aysun, University Library Information System (ULIS)  
-Licensed under the [MIT Licence](LICENSE).
+Licensed under the [MIT Licence](https://github.com/EjderAysun/University-Library-Information-System/blob/main/LICENCE).
