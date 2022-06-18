@@ -210,6 +210,9 @@ Some minor fixes and screenshots fixed.
 **Version 1.0.5**
 Some minor fixes and test for screenshot.
 
+**Version 1.0.6**
+Some minor fixes and test for screenshot.
+
 ---
 ## Contributors
 Ejder Aysun <ejdera344@gmail.com>
