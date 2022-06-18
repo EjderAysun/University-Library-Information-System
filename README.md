@@ -229,7 +229,7 @@ Test.
 **Version 1.0.9**  
 Some minor fixes, some additions and test.
 
-**Version 1.1.0**
+**Version 1.1.0**  
 Test end.
 
 ---
