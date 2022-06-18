@@ -21,35 +21,7 @@
 
 ---
 ## Screenshots
-![Screenshots](https://drive.google.com/file/d/1HkNW9sJqeFr-IjeLhWgmNjcf7Lv_t9Vc/view?usp=sharing)
 
-![Screenshots](https://drive.google.com/file/d/1TRqZE8DHsV4QUlPrZvYTJRtPtcd7YMAd/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1VeSXmLTgec8uRlYyNNMy5Ka-GL7xu7T_/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1V5Q3EAWuuqLxYJn3o-EX_UdRBz8w453x/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1ZWqAkX0N8jNVulfEzDPNADZy5G9DppSU/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1F7l0waZuJzfVXSv1GK6PsmHOM25M-Z8a/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/13Oyo2ly8Z6U2HW9ZFIzeG1lz1FaUWLmD/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/19mJn-gJeuKXIJ6NvN8TlS32n_rZrq_tD/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1CLgwibXYW364TGWaoMgXr2QVCBpjlOAR/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1YdId36brRGEZYyUvv9tn9m_7b-h9zMXW/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1WabXcL0bO6oBTg829y4bEkbAkz9NvQkn/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1OyRkNNRrwlyZgYdSogWgYjwLdvisKodY/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1LLwP_UBQoH-sy9lZ8hbyaEc-BHgXyjFo/view?usp=sharing)
-
-![Screenshots](https://drive.google.com/file/d/1xCqe_Adddjf_AG3p5M3TWBUkzbHLNs1z/view?usp=sharing)
-
----![1](https://user-images.githubusercontent.com/71559273/174435508-570d4458-2a5a-4b2f-b9ce-d2b8c5b58bfe.png)
 
 ## Technologies
 * java version "17.0.2" 2022-01-18 LTS
@@ -213,6 +185,12 @@ Some minor fixes and test for screenshot.
 
 **Version 1.0.6**
 Some minor fixes and test for screenshot.
+
+**Version 1.0.7**
+Test
+
+**Version 1.0.8**
+Test
 
 ---
 ## Contributors
