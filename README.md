@@ -21,33 +21,33 @@
 
 ---
 ## Screenshots
-![Screenshots](/ULIS_Screenshots/1.png)
+![Screenshots](ULIS_Screenshots/1.png)
 
-![Screenshots](/ULIS_Screenshots/2.png)
+![Screenshots](ULIS_Screenshots/2.png)
 
-![Screenshots](/ULIS_Screenshots/3.png)
+![Screenshots](ULIS_Screenshots/3.png)
 
-![Screenshots](/ULIS_Screenshots/4.png)
+![Screenshots](ULIS_Screenshots/4.png)
 
-![Screenshots](/ULIS_Screenshots/5.png)
+![Screenshots](ULIS_Screenshots/5.png)
 
-![Screenshots](/ULIS_Screenshots/6.png)
+![Screenshots](ULIS_Screenshots/6.png)
 
-![Screenshots](/ULIS_Screenshots/7.png)
+![Screenshots](ULIS_Screenshots/7.png)
 
-![Screenshots](/ULIS_Screenshots/8.png)
+![Screenshots](ULIS_Screenshots/8.png)
 
-![Screenshots](/ULIS_Screenshots/9.png)
+![Screenshots](ULIS_Screenshots/9.png)
 
-![Screenshots](/ULIS_Screenshots/10.png)
+![Screenshots](ULIS_Screenshots/10.png)
 
-![Screenshots](/ULIS_Screenshots/11.png)
+![Screenshots](ULIS_Screenshots/11.png)
 
-![Screenshots](/ULIS_Screenshots/12.png)
+![Screenshots](ULIS_Screenshots/12.png)
 
-![Screenshots](/ULIS_Screenshots/13.png)
+![Screenshots](ULIS_Screenshots/13.png)
 
-![Screenshots](/ULIS_Screenshots/14.png)
+![Screenshots](ULIS_Screenshots/14.png)
 
 ---
 ## Technologies
@@ -193,6 +193,12 @@ Open CMD (Command Prompt) and type this command:
 ## Version
 **Version 1.0.0**
 README document for the ULIS project.
+
+**Version 1.0.1**
+README updated.
+
+**Version 1.0.2**
+README updated.
 
 ---
 ## Contributors
