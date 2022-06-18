@@ -232,7 +232,7 @@ Some minor fixes, some additions and test.
 **Version 1.1.0**  
 Test end.
 
-**Version 1.1.1**
+**Version 1.1.1**  
 A little fix.
 
 ---
