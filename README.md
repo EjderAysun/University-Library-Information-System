@@ -49,7 +49,7 @@
 
 ![13](https://user-images.githubusercontent.com/71559273/174436941-d38bf495-ce3b-4afd-848c-7c10959c3557.png)
 
-[14](https://user-images.githubusercontent.com/71559273/174436944-36a3b462-1e7a-49d8-b2f3-b6da1931174e.png)
+![14](https://user-images.githubusercontent.com/71559273/174436944-36a3b462-1e7a-49d8-b2f3-b6da1931174e.png)
 
 ---
 ## Presentation Video
@@ -221,13 +221,16 @@ Some minor fixes and test for screenshot.
 Some minor fixes and test for screenshot.
 
 **Version 1.0.7**  
-Test
+Test.
 
 **Version 1.0.8**  
-Test
+Test.
 
 **Version 1.0.9**  
-Some minor fixes, some additions and test
+Some minor fixes, some additions and test.
+
+**Version 1.1.0**
+Test end.
 
 ---
 ## Contributors
