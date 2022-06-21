@@ -184,7 +184,7 @@ Open CMD (Command Prompt) and type this command:
 
 ---
 ## Status
-* With the exception of bug fixes (if any), development of this project is complete.
+With the exception of bug fixes (if any), development of this project is complete.
 
 ---
 ## Inspiration
