@@ -200,43 +200,6 @@ Since the content of the SE 115 projects that will be given in the next periods 
 
 ## Version
 **Version 1.0.0**  
-README document for the ULIS project.  
-  
-**Version 1.0.1**  
-Some minor fixes.  
-  
-**Version 1.0.2**  
-Some minor fixes and screenshots fixed.  
-  
-**Version 1.0.3**  
-Some minor fixes and screenshots fixed.  
-
-**Version 1.0.4**  
-Some minor fixes and screenshots fixed.  
-
-**Version 1.0.5**  
-Some minor fixes and test for screenshot.
-
-**Version 1.0.6**  
-Some minor fixes and test for screenshot.
-
-**Version 1.0.7**  
-Test.
-
-**Version 1.0.8**  
-Test.
-
-**Version 1.0.9**  
-Some minor fixes, some additions and test.
-
-**Version 1.1.0**  
-Test end.
-
-**Version 1.1.1**  
-A little fix.
-
-**Version 1.1.2**  
-A little fix.
 
 ---
 ## Contributors
