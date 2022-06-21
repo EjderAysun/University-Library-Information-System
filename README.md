@@ -57,7 +57,6 @@
 [Here](https://www.youtube.com/watch?v=Ad5KFi0JcQg) is my presentation with my ultra-perfect high-level English :D
 
 ---
-
 ## Technologies
 * java version "17.0.2" 2022-01-18 LTS
 * Java(TM) SE Runtime Environment (build 17.0.2+8-LTS-86)
@@ -76,7 +75,6 @@ Open CMD (Command Prompt) and type this command:
 >java Library
 ```
 
----
 #### For Linux:
 ##### To install java and javac (if you don't have):
 If you don't have a java and javac version, download from here:  
@@ -125,6 +123,7 @@ Open CMD (Command Prompt) and type this command:
 >javac Library.java
 >java Library
 ```
+
 ---
 ## Features
 
@@ -176,18 +175,18 @@ Open CMD (Command Prompt) and type this command:
 
     Ok. We've defined what you need to do. A small, tired and part-time student cannot write all of these processes on paper, can he?😔 At this point, the system we have coded comes into play. However, there is a small problem. Everything is erased when the system shuts down because this is a 1st-year first-semester final project. I will create a real one in the coming years. When I learn File I/O 😂...
 
-    In addition, you will be given a password and id that only you can access the system:
-**(id = 123456789 and password = qwert123)**
+    In addition, you will be given a password and id that only you can access the system:  
+    **(id = 123456789 and password = qwert123)**
 
     The program is a system where only the administrator can access all the above operations. Its purpose is to perform the above operations.
 
     Let's say the user wants to borrow a book. Then the user comes to the administrator and says "Hey admin. I want to borrow a book". Admin says "Sure, I'll give it right away". The admin must first register the user in the system, then give the book the user wants to the user and save it to the system.
----
 
+---
 ## Status
 * With the exception of bug fixes (if any), development of this project is complete.
----
 
+---
 ## Inspiration
 Software Engineering 115 (SE 115) Project Instructions (Izmir University of Economics, 2021, SE 115 course, Fall semester project document)
   
@@ -198,7 +197,6 @@ The project conforms almost exactly to the document.
 Since the content of the SE 115 projects that will be given in the next periods may be similar to this document, I do not share the document publicly. If you need the document, send an e-mail with the reason to the following address: <ejdera344@gmail.com>
 
 ---
-
 ## Version
 **Version 1.0.0**  
 
