@@ -19,6 +19,7 @@
 ## General Info
 * This application has been made by **adhering to a document**.
 * This project is a *concept* **library information system**.
+* This project **only** works on the *console*.
 
 ---
 ## Screenshots
