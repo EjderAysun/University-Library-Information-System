@@ -184,7 +184,8 @@ Open CMD (Command Prompt) and type this command:
 
 ---
 ## Status
-With the exception of bug fixes (if any), development of this project is complete.
+~~With the exception of bug fixes (if any), development of this project is complete.~~  
+Development of this project is complete
 
 ---
 ## Inspiration
@@ -204,8 +205,8 @@ Since the content of the SE 115 projects that will be given in the next periods 
 ## Contributors
 Ejder Aysun <ejderaysunn@gmail.com>
 
-SE 115 Course Lecturer, [Asst. Prof. İlker KORKMAZ](https://people.ieu.edu.tr/en/ilkerkorkmaz/main)  
-SE 115 Course Assistant, [Res. Asst. Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
+SE 115 Course Lecturer, [İlker KORKMAZ](https://people.ieu.edu.tr/en/ilkerkorkmaz/main)  
+SE 115 Course Assistant, [Serhat UZUNBAYIR](https://people.ieu.edu.tr/en/serhatuzunbayir/main)
 
 ---
 ## Licence & Copyright
